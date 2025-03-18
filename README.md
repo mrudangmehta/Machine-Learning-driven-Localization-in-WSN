@@ -27,3 +27,22 @@ This code is developed in Python for Machine Learning driven Localization in WSN
 
 
 ![Fingure1_newnode](https://github.com/user-attachments/assets/73c264ac-5d2b-440e-8a63-58b68d8cfd2f)
+
+
+
+![Figure2_threeRefPoints](https://github.com/user-attachments/assets/a4a9d802-3d45-490d-a76c-a58f6646bb1b)
+
+
+
+![Figure3_randomize](https://github.com/user-attachments/assets/7c73c274-e728-467a-b51c-42bf708862fa)
+
+
+
+
+
+![Figure4_Localize](https://github.com/user-attachments/assets/57d52b70-d2b3-42d9-ba82-ea0ecebb8a29)
+
+
+
+
+
