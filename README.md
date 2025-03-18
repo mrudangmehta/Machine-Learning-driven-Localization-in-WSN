@@ -21,3 +21,9 @@ This code is developed in Python for Machine Learning driven Localization in WSN
 
 ![Math5](https://github.com/user-attachments/assets/c4c4164c-3403-40bb-9863-36dd28ca42c9)
 
+
+![quickstartLocalize](https://github.com/user-attachments/assets/62f3ca90-3f06-4d49-8a20-52703cf2c0dc)
+
+
+
+![Fingure1_newnode](https://github.com/user-attachments/assets/73c264ac-5d2b-440e-8a63-58b68d8cfd2f)
